@@ -7,4 +7,5 @@ export HADOOP_CONF_DIR=$HADOOP_HOME/etc/hadoop
 export HADOOP_MAPRED_HOME=$HADOOP_HOME
 
 #PATH
-export PATH=$PATH:$HADOOP_HOME/bin:$HOME/.local/bin
+export PATH=$PATH
+#export PATH=$PATH:$HADOOP_HOME/bin:$HOME/.local/bin
