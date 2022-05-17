@@ -11,11 +11,4 @@ tr() {
     else
         tree --dirsfirst -h -C -L 1 "$@"
     fi
-
-    #if [ -z "$1" ]
-    #then
-    #    tree --dirsfirst -h -C -L 1
-    #else
-    #    tree 
-    #tree --dirsfirst -h -C -L "${1:-1}" 
 }
