@@ -70,6 +70,7 @@ aliases=(
   db
   hadoop
   python
+  ffmpeg
 )
 
 # Which plugins would you like to load? (plugins can be found in ~/.oh-my-bash/plugins/*)
