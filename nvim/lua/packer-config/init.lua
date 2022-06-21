@@ -5,4 +5,5 @@ return require('packer').startup(function()
     use 'nvim-lualine/lualine.nvim'
     use 'kyazdani42/nvim-tree.lua'
     use 'neovim/nvim-lspconfig'
+    use 'neovim/nvim-lspconfig'
 end)
