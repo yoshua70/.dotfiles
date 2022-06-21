@@ -10,5 +10,6 @@ export HADOOP_MAPRED_HOME=$HADOOP_HOME
 export DENO_INSTALL=/home/michee/.deno
 
 #PATH
-export PATH=$PATH:$DENO_INSTALL/bin
 #export PATH=$PATH:$HADOOP_HOME/bin:$HOME/.local/bin
+export PATH=$PATH:/usr/local/go/bin
+
